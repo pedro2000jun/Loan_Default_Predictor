@@ -1,4 +1,4 @@
-# Loan Default_ redictor
+# Loan Default Predictor
 
 In this project, we aim to develop a robust loan default predictor using logistic regression modeling techniques applied to the "SBA Loans Case Data Set" sourced from Kaggle. Small Business Administration (SBA) loans play a crucial role in fostering entrepreneurship by providing financial assistance to small businesses. However, predicting the likelihood of loan default is pivotal for lenders to manage risk effectively and ensure the stability of their portfolios.
 
